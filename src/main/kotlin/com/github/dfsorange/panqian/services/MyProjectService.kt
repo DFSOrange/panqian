@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.dfsorange.panqian.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.dfsorange.panqian.MyBundle
 
 class MyProjectService(project: Project) {
 
